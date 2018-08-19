@@ -1,13 +1,15 @@
-﻿using MicroSoftExam70_483.Types;
+﻿using System;
 
 namespace MicroSoftExam70_483
 {
     public class Program
     {
+
         static void Main(string[] args)
         {
-            Enumration enumration = new Enumration();
+            Console.ReadKey();
 
         }
+
     }
 }
