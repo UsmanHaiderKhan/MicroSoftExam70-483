@@ -2,9 +2,7 @@
 {
     public class Enumration
     {
-        enum days
-        {
-            sat, sun, mon
-        }
+
+
     }
 }
